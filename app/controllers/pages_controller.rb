@@ -5,7 +5,7 @@ class PagesController < ApplicationController
   end
 
   def flatshow
-    @something = "A message from the db since we don't have a flats model yet"
+    @something = "A message from the db since we don't have a flats model yet."
   end
 
 end
